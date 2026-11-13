@@ -1,0 +1,10 @@
+{
+    "Version": "2012-10-17",
+    "Statement": [
+        {
+            "Effect": "Allow",
+            "Action": "ec2:StartInstances",
+            "Resource": "arn:aws:ec2:ap-south-1:put your aws acc id:instance/put your instance id"
+        }
+    ]
+}
